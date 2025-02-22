@@ -124,7 +124,7 @@ Feel free to open an issue or contact me if you have any questions or need help 
 
 If you have any suggestions or issues, please feel free to reach out to me!
 
-- 📩 **Email**:(mailto:sahasra.peram.77@gmail.com)
+- 📩 **Email**:(sahasra.peram.77@gmail.com)
 - 💼 **LinkedIn**: (https://www.linkedin.com/in/sahasra-peram/)
 
 ---
