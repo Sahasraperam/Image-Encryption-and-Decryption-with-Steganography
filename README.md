@@ -1,4 +1,6 @@
------
+
+---
+
 # 🖼️ Image Encryption & Decryption with Steganography 🔐
 
 Welcome to the **Image Encryption & Decryption with Steganography** project! 🎉 This tool allows you to securely encrypt and decrypt images using AES encryption and hide sensitive information inside images using **Least Significant Bit (LSB)** steganography. 🔒
@@ -96,6 +98,20 @@ To decrypt the image, you simply need to provide the correct password. The encry
 
 ---
 
+## 📸 Screenshots:
+
+![Encrypting Image](![image](https://github.com/user-attachments/assets/aeb54335-39c9-4f0b-abd7-e3d456797532)
+)
+![image](https://github.com/user-attachments/assets/f985aa71-fd5d-40ac-bc57-3388747d0597)
+
+*Encrypt your image by selecting a file and entering a password.*
+
+![Decrypting Image](![image](https://github.com/user-attachments/assets/e0fbd505-be88-4c07-b9b7-38f15688b27b)
+)
+*Decrypt your encrypted image by selecting the encrypted file and entering the correct password.*
+
+---
+
 ## 📜 License:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📄
@@ -108,8 +124,25 @@ Feel free to open an issue or contact me if you have any questions or need help 
 
 ---
 
+## 📧 Contact Me:
+
+If you have any suggestions or issues, please feel free to reach out to me!
+
+- 📩 **Email**: [your.email@example.com](mailto:sahasra.peram.77@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/sahasra-peram/)
+
+---
+
 ## 🎉 Enjoy the Project!
 
 Happy encrypting, decrypting, and hiding secret messages in your images! 🎨🔐
 
 ---
+
+### How to Add Screenshots:
+1. Save screenshots of the application in the `images/` folder of your project directory.
+2. Update the `![Encrypting Image](./images/encrypt_image.png)` and `![Decrypting Image](./images/decrypt_image.png)` sections with the path to your images.
+
+---
+
+Feel free to update the **Contact** and **Screenshots** sections with your personal details and images! Let me know if you need further modifications or help! 😊
