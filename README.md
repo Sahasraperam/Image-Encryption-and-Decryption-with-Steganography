@@ -106,10 +106,6 @@ To decrypt the image, you simply need to provide the correct password. The encry
 
 *Encrypt your image by selecting a file and entering a password.*
 
-![Decrypting Image](![image](https://github.com/user-attachments/assets/e0fbd505-be88-4c07-b9b7-38f15688b27b)
-
-*Decrypt your encrypted image by selecting the encrypted file and entering the correct password.*
-
 ---
 
 ## 📜 License:
