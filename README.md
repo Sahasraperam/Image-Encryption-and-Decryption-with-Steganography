@@ -107,7 +107,7 @@ To decrypt the image, you simply need to provide the correct password. The encry
 *Encrypt your image by selecting a file and entering a password.*
 
 ![Decrypting Image](![image](https://github.com/user-attachments/assets/e0fbd505-be88-4c07-b9b7-38f15688b27b)
-)
+
 *Decrypt your encrypted image by selecting the encrypted file and entering the correct password.*
 
 ---
@@ -128,8 +128,8 @@ Feel free to open an issue or contact me if you have any questions or need help 
 
 If you have any suggestions or issues, please feel free to reach out to me!
 
-- 📩 **Email**: [your.email@example.com](mailto:sahasra.peram.77@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/sahasra-peram/)
+- 📩 **Email**:(mailto:sahasra.peram.77@gmail.com)
+- 💼 **LinkedIn**: (https://www.linkedin.com/in/sahasra-peram/)
 
 ---
 
@@ -139,10 +139,3 @@ Happy encrypting, decrypting, and hiding secret messages in your images! 🎨�
 
 ---
 
-### How to Add Screenshots:
-1. Save screenshots of the application in the `images/` folder of your project directory.
-2. Update the `![Encrypting Image](./images/encrypt_image.png)` and `![Decrypting Image](./images/decrypt_image.png)` sections with the path to your images.
-
----
-
-Feel free to update the **Contact** and **Screenshots** sections with your personal details and images! Let me know if you need further modifications or help! 😊
